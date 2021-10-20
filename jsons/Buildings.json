@@ -1,0 +1,33 @@
+[
+      {
+            "name": "Science+",
+            "science": 0,
+            "cost": -1,
+            "maintenance": 0
+      },
+      {
+            "name": "Production+",
+            "production": 999,
+            "cost": -1,
+	"uniques": ["Provides [10] [Oil]","Provides [10] [Coal]","Provides [10] [Aluminum]","Provides [10] [Iron]","Provides [10] [Horses]","Provides [2] [Uranium]"],
+            "maintenance": 0         
+      },
+      {
+            "name": "Culture+",
+            "uniques": ["Culture cost of adopting new Policies reduced by [100]%"],
+            "cost": -1,
+            "maintenance": 0          
+      },
+      {
+            "name": "Gold+",
+            "gold": 999,
+            "cost": -1,
+            "maintenance": 0           
+      },
+      {
+            "name": "Food+",
+            "food": 999,
+            "cost": -1,
+            "maintenance": 0
+      }
+]
