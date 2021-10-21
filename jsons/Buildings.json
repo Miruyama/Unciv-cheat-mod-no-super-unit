@@ -2,55 +2,63 @@
       {
             "name": "Science+",
             "science": 0,
-            "cost": -1,
+		"cost": 100000,
+		"hurryCostModifier": -110,
 	"greatPersonPoints": {"Great Scientist": 10},
             "maintenance": 0
       },
       {
             "name": "Production+",
             "production": 999,
-            "cost": -1,
+		"cost": 100000,
+		"hurryCostModifier": -110,
 	"greatPersonPoints": {"Great Engineer": 10},
             "maintenance": 0         
       },
       {
             "name": "Culture+",
             "uniques": ["Culture cost of adopting new Policies reduced by [100]%"],
-            "cost": -1,
+		"cost": 100000,
+		"hurryCostModifier": -110,
 	"greatPersonPoints": {"Great Artist": 10},
             "maintenance": 0          
       },
       {
             "name": "Gold+",
             "gold": 999,
-            "cost": -1,
+		"cost": 100000,
+		"hurryCostModifier": -110,
 	"greatPersonPoints": {"Great Merchant": 10},
             "maintenance": 0           
       },
       {
             "name": "Food+",
             "food": 999,
-            "cost": -1,
+		"cost": 100000,
+		"hurryCostModifier": -110,
             "maintenance": 0
       },
       {
             "name": "Military+",
 	"uniques": ["New [Military] units start with [100] Experience [in this city]"],
-            "cost": -1,
+		"cost": 100000,
+		"hurryCostModifier": -110,
 	"greatPersonPoints": {"Great General": 10},
             "maintenance": 0
       },
       {
 	"name": "Faith+",
-	"faith": 999,
-	"cost": -1,
+	"faith": 50,
+		"cost": 100000,
+		"hurryCostModifier": -110,
 	"uniques": ["Hidden when religion is disabled"],
 	"maintenance": 0
       },
       {
             "name": "Resource+",
-            "cost": -1,
+		"cost": 100000,
+		"hurryCostModifier": -110,
 	"uniques": ["Quantity of strategic resources produced by the empire +[100]%"],
             "maintenance": 0         
-      },
+      }
 ]
