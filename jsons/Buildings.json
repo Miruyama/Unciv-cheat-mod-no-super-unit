@@ -48,7 +48,7 @@
       },
       {
 	"name": "Faith+",
-	"faith": 50,
+	"faith": 30,
 		"cost": 100000,
 		"hurryCostModifier": -110,
 	"uniques": ["Hidden when religion is disabled"],
