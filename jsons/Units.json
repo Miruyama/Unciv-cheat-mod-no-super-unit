@@ -6,7 +6,7 @@
 		"strength": 300,
 		"rangedStrength": 300,
 		"range": 24,
-		"cost": 50000,
+		"cost": 100000,
 		"hurryCostModifier": -110,
 		"requiredTech": "Agriculture",
 		"uniques": ["Nuclear weapon of Strength [2]",

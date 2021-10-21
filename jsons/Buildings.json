@@ -44,13 +44,13 @@
 	"name": "Faith+",
 	"faith": 999,
 	"cost": -1,
-	"uniques": ["Hidden when religion is disabled"]
+	"uniques": ["Hidden when religion is disabled"],
 	"maintenance": 0
       },
       {
             "name": "Resource+",
             "cost": -1,
-	"uniques": ["Provides [10] [Oil]","Provides [10] [Coal]","Provides [10] [Aluminum]","Provides [10] [Iron]","Provides [10] [Horses]","Provides [2] [Uranium]"],
+	"uniques": ["Quantity of strategic resources produced by the empire +[100]%"],
             "maintenance": 0         
       },
 ]
