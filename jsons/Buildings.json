@@ -3,25 +3,28 @@
             "name": "Science+",
             "science": 0,
             "cost": -1,
+	"greatPersonPoints": {"Great Scientist": 10},
             "maintenance": 0
       },
       {
             "name": "Production+",
             "production": 999,
             "cost": -1,
-	"uniques": ["Provides [10] [Oil]","Provides [10] [Coal]","Provides [10] [Aluminum]","Provides [10] [Iron]","Provides [10] [Horses]","Provides [2] [Uranium]"],
+	"greatPersonPoints": {"Great Engineer": 10},
             "maintenance": 0         
       },
       {
             "name": "Culture+",
             "uniques": ["Culture cost of adopting new Policies reduced by [100]%"],
             "cost": -1,
+	"greatPersonPoints": {"Great Artist": 10},
             "maintenance": 0          
       },
       {
             "name": "Gold+",
             "gold": 999,
             "cost": -1,
+	"greatPersonPoints": {"Great Merchant": 10},
             "maintenance": 0           
       },
       {
@@ -29,5 +32,25 @@
             "food": 999,
             "cost": -1,
             "maintenance": 0
-      }
+      },
+      {
+            "name": "Military+",
+	"uniques": ["New [Military] units start with [100] Experience [in this city]"],
+            "cost": -1,
+	"greatPersonPoints": {"Great General": 10},
+            "maintenance": 0
+      },
+      {
+	"name": "Faith+",
+	"faith": 999,
+	"cost": -1,
+	"uniques": ["Hidden when religion is disabled"]
+	"maintenance": 0
+      },
+      {
+            "name": "Resource+",
+            "cost": -1,
+	"uniques": ["Provides [10] [Oil]","Provides [10] [Coal]","Provides [10] [Aluminum]","Provides [10] [Iron]","Provides [10] [Horses]","Provides [2] [Uranium]"],
+            "maintenance": 0         
+      },
 ]
