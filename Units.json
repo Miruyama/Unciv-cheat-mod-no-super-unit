@@ -1,0 +1,16 @@
+[
+	{
+		"name": "WWWMD",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 300,
+		"rangedStrength": 300,
+		"range": 24,
+		"cost": 100000,
+		"hurryCostModifier": -110,
+		"requiredTech": "Agriculture",
+		"uniques": ["Nuclear weapon of Strength [2]",
+			"Blast radius [15]", "Consumes [2] [Uranium]"],
+		"attackSound": "nuke"
+	}
+]
